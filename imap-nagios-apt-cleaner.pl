@@ -3,7 +3,6 @@ use warnings;
 use strict;
 use Term::ReadKey;
 use Net::IMAP::Client;
-use List::Util "first";
 
 
 my $srv = 'imap.gmail.com';
